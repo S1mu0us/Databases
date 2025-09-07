@@ -24,6 +24,7 @@
 
 ### Задание 1
 
+<img src = "img/image.png">
 
 ---
 
